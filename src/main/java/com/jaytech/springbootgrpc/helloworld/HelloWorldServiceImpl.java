@@ -1,8 +1,5 @@
-package com.jaytech.springbootgrpc.grpc;
+package com.jaytech.springbootgrpc.helloworld;
 
-import com.jaytech.springbootgrpc.grpc.helloworld.Greeting;
-import com.jaytech.springbootgrpc.grpc.helloworld.HelloWorldServiceGrpc;
-import com.jaytech.springbootgrpc.grpc.helloworld.Person;
 import io.grpc.stub.StreamObserver;
 import org.lognet.springboot.grpc.GRpcService;
 import org.slf4j.Logger;

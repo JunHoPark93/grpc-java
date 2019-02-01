@@ -1,8 +1,6 @@
-package com.jaytech.springbootgrpc.grpc;
+package com.jaytech.springbootgrpc.helloworld;
 
-import com.jaytech.springbootgrpc.grpc.helloworld.Greeting;
-import com.jaytech.springbootgrpc.grpc.helloworld.HelloWorldServiceGrpc;
-import com.jaytech.springbootgrpc.grpc.helloworld.Person;
+
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
 import org.slf4j.Logger;

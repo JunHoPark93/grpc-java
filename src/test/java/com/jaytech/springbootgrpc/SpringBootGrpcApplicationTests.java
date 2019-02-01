@@ -1,6 +1,6 @@
 package com.jaytech.springbootgrpc;
 
-import com.jaytech.springbootgrpc.grpc.HelloWorldClient;
+import com.jaytech.springbootgrpc.helloworld.HelloWorldClient;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
